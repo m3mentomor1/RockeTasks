@@ -12,3 +12,15 @@ This repo contains design mockups for a project called **RockeTasks**, a habit t
 ##
 
 ### 👀 II. Preview
+
+<br><br><br>
+
+Figma Link/s: 
+- [Design View](https://www.figma.com/design/kNiSeQQi3xzNm5Iro6YTsN/RockeTasks?node-id=0-1&t=XcvbUTwY1CCsFAm6-1)
+- [Prototype View (Screen & Button Navigation)]()
+<br><br>
+##
+
+### 💻 III. Tech Stack
+
+``Figma`` ``Canva`` ``Photopea``
