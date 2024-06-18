@@ -13,6 +13,12 @@ This repo contains design mockups for a project called **RockeTasks**, a habit t
 
 ### 👀 II. Preview
 
+#### ✅ Normal Mode
+
+<br><br><br>
+
+#### ✅ Gamified Mode
+
 <br><br><br>
 
 Figma Link/s: 
