@@ -13,6 +13,10 @@ This repo contains design mockups for a project called **RockeTasks**, a habit t
 
 ### 👀 II. Preview
 
+#### ✅ Switch Modes
+
+<br><br><br>
+
 #### ✅ Normal Mode
 
 <br><br><br>
