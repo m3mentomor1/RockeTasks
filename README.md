@@ -20,6 +20,7 @@ This repo contains design mockups for a project called **RockeTasks**, a habit t
 
 #### ✅ Normal Mode
 
+![Normal Mode](https://github.com/m3mentomor1/RockeTasks-Design/assets/95956735/3e5ff691-652a-4bd7-a2dc-e103f1215891)
 <br><br><br>
 
 #### ✅ Gamified Mode
