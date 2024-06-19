@@ -15,6 +15,7 @@ This repo contains design mockups for a project called **RockeTasks**, a habit t
 
 #### ✅ Switch Modes
 
+![Switch Modes](https://github.com/m3mentomor1/RockeTasks-Design/assets/95956735/dc625ef0-2769-4974-a13c-ac73c556e9c7)
 <br><br><br>
 
 #### ✅ Normal Mode
