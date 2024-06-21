@@ -8,6 +8,8 @@
 </div>
 
 This repo contains design mockups for a project called **RockeTasks**, a habit tracker mobile app that utilizes gamification to help users improve their habits and achieve their goals. 
+
+RockeTasks is a project idea entry that participated in the Samsung Create National Idea Contest (2023) hackathon.
 <br><br>
 ##
 
