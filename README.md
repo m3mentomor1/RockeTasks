@@ -25,6 +25,7 @@ This repo contains design mockups for a project called **RockeTasks**, a habit t
 
 #### ✅ Gamified Mode
 
+![Gamified Mode](https://github.com/m3mentomor1/RockeTasks-Design/assets/95956735/ccea74f9-a55f-4d30-9a23-4b0d578010e5)
 <br><br><br>
 
 Figma Link/s: 
