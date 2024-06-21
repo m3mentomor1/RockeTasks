@@ -29,8 +29,8 @@ This repo contains design mockups for a project called **RockeTasks**, a habit t
 <br><br><br>
 
 Figma Link/s: 
-- [Design View](https://www.figma.com/design/kNiSeQQi3xzNm5Iro6YTsN/RockeTasks?node-id=0-1&t=XcvbUTwY1CCsFAm6-1)
-- [Prototype View (Screen & Button Navigation)]()
+- [Design View](https://www.figma.com/design/kNiSeQQi3xzNm5Iro6YTsN/RockeTasks?node-id=0-1&t=6WJVM7vvCEslKSF5-1)
+- [Prototype View (Screen & Button Navigation)](https://www.figma.com/proto/kNiSeQQi3xzNm5Iro6YTsN/RockeTasks?node-id=13-4&t=8S1S7xFd0fH7bS0V-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A4)
 <br><br>
 ##
 
